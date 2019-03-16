@@ -1,4 +1,4 @@
-# ![Alt Text](https://i.imgur.com/GpfTLN0.png) Galerio
+# ![Alt Text](https://i.imgur.com/4CfMseZ.png) Galerio
 
 Simple and functional photo viewer for Mac.
 
