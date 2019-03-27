@@ -8,6 +8,8 @@ Simply download the GalerioBeta.dmg file from this [iCloud Drive Link](https://w
 
 Please use 'Send Feedback' to inform me about any bugs or features that you'd like to see added.
 
+Note: This beta version (0.9b1) will stop working after May 15th.
+
 For any other questions, email me at:
 manuel.vrhovac@me.com
 
