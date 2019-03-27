@@ -4,7 +4,7 @@ Simple and functional photo viewer for Mac.
 
 ### How to download and install Galerio Beta
 
-Simply download the .dmg file from this ![iCloud Drive Link](https://www.icloud.com/iclouddrive/0tlEhLjXFDR_GO6F5M0_ZI-gA#GalerioBeta) and then extract Galerio.app to your /Applications folder.
+Simply download the GalerioBeta.dmg file from this [iCloud Drive Link](https://www.icloud.com/iclouddrive/0tlEhLjXFDR_GO6F5M0_ZI-gA#GalerioBeta) and then extract Galerio.app to your Applications folder. It's signed with my Developer Certificate and has been notarized by Apple (checked for malicious software).
 
 Please use 'Send Feedback' to inform me about any bugs or features that you'd like to see added.
 
