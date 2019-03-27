@@ -3,7 +3,7 @@
 Simple and functional photo viewer for Mac.
 
 Download and try Galerio 0.9b from this link:
-![](https://www.icloud.com/iclouddrive/0tlEhLjXFDR_GO6F5M0_ZI-gA#GalerioBeta)
+https://www.icloud.com/iclouddrive/0tlEhLjXFDR_GO6F5M0_ZI-gA#GalerioBeta
 
 Please use 'Send Feedback' if there's something you think I should add, change or remove in Galerio.
 
