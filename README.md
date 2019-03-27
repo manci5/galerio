@@ -2,11 +2,11 @@
 
 Simple and functional photo viewer for Mac.
 
-Download and try Galerio 0.9b from this link:
+### How to download and install Galerio Beta
 
-https://www.icloud.com/iclouddrive/0tlEhLjXFDR_GO6F5M0_ZI-gA#GalerioBeta
+Simply download the .dmg file from this ![iCloud Drive Link](https://www.icloud.com/iclouddrive/0tlEhLjXFDR_GO6F5M0_ZI-gA#GalerioBeta) and then extract Galerio.app to your /Applications folder.
 
-Please use 'Send Feedback' if there's something you think I should add, change or remove in Galerio.
+Please use 'Send Feedback' to inform me about any bugs or features that you'd like to see added.
 
 For any other questions, email me at:
 manuel.vrhovac@me.com
